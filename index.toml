@@ -135,11 +135,6 @@ hash = "347ea710fbbd05e3f87c8a0d76fd3452d089e3874c01188b2beea999acb255cf"
 metafile = true
 
 [[files]]
-file = "config/openloader/resources/tuttas-mca-texture.pw.toml"
-hash = "3de851b962860946c3725b06e305ca9d191b60ca51535d33f56844625c80a20a"
-metafile = true
-
-[[files]]
 file = "config/quark-common.toml"
 hash = "94e78cb8c6b66471e8e9a4967e157a313addababb86204cd459943c5487a82be"
 
