@@ -1,0 +1,13 @@
+name = "McJtyLib"
+filename = "mcjtylib-1.18-6.0.17.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7628e955439a7d1fbc2038167fa18771cfad6d87"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3994822
+project-id = 233105

@@ -70,7 +70,7 @@ hash = "139ed680f16582a93be8a99f006ae24bf65e9591b5a89b39267b7048e1be6c8a"
 
 [[files]]
 file = "config/fancymenu/customization/Menu.txt"
-hash = "be447aef68848515fb9e715e3b94737baa08075aa4f758f07d3863bdbbfc72ec"
+hash = "424e5bce4e5a02d6351820b6b7fb122b448df77e631ef25aa44fe458482aacc6"
 
 [[files]]
 file = "config/fancymenu/customization/audio.txt"
@@ -164,6 +164,11 @@ hash = "5262b40999a9c2e60b43561067f5f199814627eaaee3d193c92ef8b99f20fe61"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "033d92c7690c3e8f2dd94756f4028bfe27ec5d4db30c1a5cf95c4a997e0d80b5"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "8ae2eb2f58d366a8de6c8cb4e1ca6dc9824b8ad7176711ca9b74a38768707fbc"
 metafile = true
@@ -204,6 +209,11 @@ hash = "a9f4995175214b99cd6f0aff1658ee992707f781c3ad41dbf8212e8d3ecbf061"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "8aa8cf66f38711e70abb448f0b467095cef3be6608b4305c8c0971eee86f394f"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
@@ -239,6 +249,11 @@ hash = "ef388a609395a6eb9217498643a3286777ac88bf72d5c11f7ef2a8bfafc394f7"
 metafile = true
 
 [[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "7fa60e92666be0e8e5500a9b1deb3711ac33c836c3d54039693e5be46903e1d6"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "49d95a50bd61162db6c7882fc0a2fdac118ead6e7bc592c243d1db29b560db17"
 metafile = true
@@ -264,13 +279,28 @@ hash = "518c71aa7cd6a28fc326dee6cb7693afb2fec13d65e8a2383ab43d115ff6d53c"
 metafile = true
 
 [[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "f968d2a3952fc6f09a369be1554baf6e53e046761c836d545f698a9bf6cab8f0"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "4362ae4c00b130a09b7b88aac232461a453a3c13f06d722c9c88c371f52d7f7b"
 metafile = true
 
 [[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "8724c9afd1e767f24c7755a57664399d37444ddf9a97a135f0b1e6c203444d7a"
+metafile = true
+
+[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "42ebff2953197d7452e5ef122a268d702836f141b922814c92d1f6e453cf291d"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "fd60634befa8a43c361628181cc28da548dd84bc90ee5fb699dc5c2f13847aa3"
 metafile = true
 
 [[files]]
@@ -281,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/enigmatic-legacy.pw.toml"
 hash = "8dd459bb85438919715bf3f0f3a2ea99e747fbfe3152f8723c17a08d5d41c419"
+metafile = true
+
+[[files]]
+file = "mods/evilcraft.pw.toml"
+hash = "9e752980c179d449b50d6a439ebbc6f1edcec1f199792780a496acca4cd8d3c7"
 metafile = true
 
 [[files]]
@@ -334,6 +369,11 @@ hash = "71e4b1ef73675a703286b1dc2a88945a007e9b300425269906b7cec1d393f358"
 metafile = true
 
 [[files]]
+file = "mods/guide-api-village-and-pillage.pw.toml"
+hash = "52c76dca73ede428d7d515279a5d22847312a8d3abc055494aec60e1e56a712f"
+metafile = true
+
+[[files]]
 file = "mods/itemphysic.pw.toml"
 hash = "fdb9652713b168150149b68eb84e076e5748dbbf357b4d7818a82bbe58ccb0a3"
 metafile = true
@@ -374,6 +414,11 @@ hash = "75002554560aea6782e71f9bf9cf1a5d8ba13cea9ae85f9b1c167d0133bde10d"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "01a67fa4a98251ec827e59a7f03c4002b953c66f5da51f3e9aae8b30c523ecd4"
+metafile = true
+
+[[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
 metafile = true
@@ -381,6 +426,16 @@ metafile = true
 [[files]]
 file = "mods/mana-and-artifice.pw.toml"
 hash = "58537c9aa0c8a500d798cd7ebf413bb047bc8ac263754260648280a9420f8b50"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "3b8744e493e25555053230b01f86c25cfee8e686d4159db5458478b00e404d58"
+metafile = true
+
+[[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "8d667948726db0df12a25c12a0df539954ca93fba9e7529d857b8b7c84d9b87d"
 metafile = true
 
 [[files]]
@@ -449,6 +504,16 @@ hash = "6d90703590e13b8233fa9572f5306b87d4b56930905eca96b9a9834e122cb6bc"
 metafile = true
 
 [[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "ce2fdaac17c20454cbcd0f1069f193d1f2b60bfeb56ce4e1c3314014930aa39a"
+metafile = true
+
+[[files]]
+file = "mods/rftools-dimensions.pw.toml"
+hash = "ee8ef99ac73281f974a2e4688c933cd1369698a567b4a28f68c310389e8ba586"
+metafile = true
+
+[[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "2fa0ec2dbf6e42783bc88a285aacc60ca22d7c9b2f3ebfcbc7c9f80d9868da96"
 metafile = true
@@ -476,6 +541,11 @@ metafile = true
 [[files]]
 file = "mods/simple-login.pw.toml"
 hash = "3fc346f7c9727ecf7af06dc67274dbe38ba02cae61249f58ed4e962e6313fbd4"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "b34952ddd6841882e2ece139e1b2c7ce9573e866b914e3c52917f3caf0d2f450"
 metafile = true
 
 [[files]]
@@ -521,6 +591,11 @@ metafile = true
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "d9502341fa600fa326bed44c420aef657638b15f1093caeeba6776301cf83f93"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "5cef47ebec6f02511be3efd5d6b65ff3bf7ba9593958d13a6784e45621b4ba1f"
 metafile = true
 
 [[files]]
