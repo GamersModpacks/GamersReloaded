@@ -66,11 +66,11 @@ hash = "2f661df939753b79113354b0decb349ef252460ec618eac367c088070bd8556f"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "139ed680f16582a93be8a99f006ae24bf65e9591b5a89b39267b7048e1be6c8a"
+hash = "ec404f11c6493200c5ce93eac4a6cb35b865cce4ce65f5e51e238c3e3c0ef54b"
 
 [[files]]
 file = "config/fancymenu/customization/Menu.txt"
-hash = "424e5bce4e5a02d6351820b6b7fb122b448df77e631ef25aa44fe458482aacc6"
+hash = "c6e4279739ca3fc331717e3e55b76dd48e74638479708b19f116719abe29a98f"
 
 [[files]]
 file = "config/fancymenu/customization/audio.txt"
@@ -79,6 +79,10 @@ hash = "dca06b276a164c283c2c8b38961591ee7091477e0ea7fae2de2d30dd7b7d0655"
 [[files]]
 file = "config/fancymenu/customization/menu2.txt"
 hash = "e845f704340a6c4d6f458fd34962f18e7cb78272dcac83f324e5ce8bc7363725"
+
+[[files]]
+file = "config/fancymenu/customization/settings.txt"
+hash = "3cb729547f8b5356b81b664db1f97507064463d48ee63746761da59806907b84"
 
 [[files]]
 file = "config/fancymenu/logo.png"
@@ -134,10 +138,6 @@ file = "config/openloader/resources/GamersReloaded Resources/pack.mcmeta"
 hash = "6a6ebac7a4b043497eae05aec062495abebba7fff3456db9f0b3a844ad46b5a0"
 
 [[files]]
-file = "config/openloader/resources/RU_UK.zip"
-hash = "4835893bfb9233070e18e67fc936f27a127bb0eaf226f0e709642ae712abcd3b"
-
-[[files]]
 file = "config/openloader/resources/Tutta's_MCA_Texture_V1.15+-+1.18+.zip"
 hash = "fc96966b4ffe0e936022de7f781243e702f3c046643eb2046a215b74242c04bf"
 
@@ -147,8 +147,17 @@ hash = "347ea710fbbd05e3f87c8a0d76fd3452d089e3874c01188b2beea999acb255cf"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/ru-uk.pw.toml"
+hash = "5edcd21eaac9aaf6099a11062b3d04d39cc30e7ffa07cdc2a3bbf04ec11114b0"
+metafile = true
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "94e78cb8c6b66471e8e9a4967e157a313addababb86204cd459943c5487a82be"
+
+[[files]]
+file = "config/securitycraft-client.toml"
+hash = "b96d295ea206bd9c79a3be58ec4a0a9859bb55b6c96d7e4b59af0c03727cfa71"
 
 [[files]]
 file = "config/tips.json"
@@ -227,7 +236,12 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "a9f4995175214b99cd6f0aff1658ee992707f781c3ad41dbf8212e8d3ecbf061"
+hash = "57a874e5167da349bb2cc7870adfac66d4ec027f884afbee45b1359950f84fb7"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
 metafile = true
 
 [[files]]
@@ -412,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "58db6fb5d9abcc0169b45c2f417a249a99a120673ac9ca88e83b11b7fcbad7f0"
+hash = "07d5cff564f923f24b5d5849f6904c0ffa1340f9925261545f4ca6ddd0d504d3"
 metafile = true
 
 [[files]]
@@ -657,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-graveyard-forge.pw.toml"
-hash = "6981acd710de887398237ffa48ca2d012054e85e735016331e83906c8b34b9eb"
+hash = "4e5ab66552e294ec1d88c473a84d900dc907a38f5c63d3539bb05522bbb9001e"
 metafile = true
 
 [[files]]

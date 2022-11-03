@@ -9,3 +9,9 @@ net.minecraft.client.gui.screens.PauseScreen {
 net.minecraft.client.gui.screens.SoundOptionsScreen {
 }
 
+net.minecraft.client.gui.screens.AccessibilityOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.OptionsScreen {
+}
+
