@@ -1,0 +1,13 @@
+name = "The Graveyard (FORGE)"
+filename = "The_Graveyard_1.9.2_(FORGE)_for_1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e674bc03a6a178f5cba23d30418c0f4a8739d67b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3954083
+project-id = 531188

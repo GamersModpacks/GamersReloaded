@@ -27,7 +27,7 @@ customization {
   width = 200
   action = addtexture
   actionid = 36f00b53-c7f9-42fd-a0da-da78a1ccbc171666471047865
-  y = 0
-  height = 85
+  y = -1
+  height = 81
 }
 
