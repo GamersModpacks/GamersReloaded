@@ -1,12 +1,12 @@
 name = "GamersReloaded"
 author = "Gamers"
-version = "1.0.1"
+version = "1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "87676ab7c3be7eb0ac6b34c51a01b2da76056408aa63d7a763589e708e94165e"
+hash = "6f78d844bd98c5407ac63ab6a9509ecae74d4baf869100f890ece5115aaa44c6"
 
 [versions]
 forge = "40.1.84"

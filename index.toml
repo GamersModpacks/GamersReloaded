@@ -10,7 +10,7 @@ hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "39776f42e0a6b3a7507f4534dd6860c4a9e01febb58f4614ffceebf5abe4261e"
+hash = "9c28fbcc7ecc39bf4450d1566deffccccbbe8e9b8906fd3df6cd3fc79b7dee67"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -39,10 +39,6 @@ hash = "4a8e1f8287e0804bf5bd6490735c3668c46d0063546af4bdafaf280d32754fbb"
 [[files]]
 file = "config/drippyloadingscreen/customization/loading.dllayout"
 hash = "2798250a96c4c9154ae9045ee4d00bbfbbbd0522e0696608c450af9ae8b80063"
-
-[[files]]
-file = "config/dynamic_lights_reforged.toml"
-hash = "f6147b74ba0d4f0da7154703623a690f90afceb39bea3217f76e45e7ed08eed4"
 
 [[files]]
 file = "config/enigmaticlegacy-client.omniconf"
@@ -98,11 +94,15 @@ hash = "d5d6716f7fdbd58e12bf64cc777b95678e8527c4e87e0aeffdae373520b23a7b"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "d51e6ec94058554a84558a5b402ee6ef5fdf5455e35c902feda61cda8752943a"
+hash = "b05e244762b1e472be89a93800cc3ee326743cecb55984bf12813addb8de66d0"
 
 [[files]]
 file = "config/forge-client.toml"
 hash = "a7c8e3756baa0003dd4ba52d742b7a27dd9751ce319066e181f71ff0875af1ca"
+
+[[files]]
+file = "config/greekfantasy-common.toml"
+hash = "0df0e5eb593a4b876f13ef6bcb45c456005db7b0325f0b8d0a4ae41b556241af"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
@@ -321,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclic.pw.toml"
-hash = "518c71aa7cd6a28fc326dee6cb7693afb2fec13d65e8a2383ab43d115ff6d53c"
+hash = "bc448083ec3119e85fae11fc3691f855205f98ecdc01d8958e140b2e3e0a19a0"
 metafile = true
 
 [[files]]
@@ -345,13 +345,13 @@ hash = "30b591ca5cd048238b61ce0332e1a8db4626dbe42f2d148920191cff86f0950d"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-view.pw.toml"
-hash = "4b9c5e688a6c0f570e7e3e19ff113ef375a677374a4c6b32b71663ef79556553"
+file = "mods/dynamic-lights.pw.toml"
+hash = "4a7d6830de80e0d466d9e5841916c02fbefd45b64a146ada34db7d5de97c2999"
 metafile = true
 
 [[files]]
-file = "mods/dynamiclights-reforged.pw.toml"
-hash = "b9a21042c55e75256e733b18b41223111e27b5af4bdb45f2570f1b7be3c9b2d3"
+file = "mods/dynamic-view.pw.toml"
+hash = "4b9c5e688a6c0f570e7e3e19ff113ef375a677374a4c6b32b71663ef79556553"
 metafile = true
 
 [[files]]
@@ -651,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "73151c799fd3d966e0a4a4fe260d83a07a4e5dcb3c29959ec220468420028e7d"
+hash = "f389cee82dafe0ff9ad934e2454b49c89dd84deb4a9a447cbb6781190b2b753d"
 metafile = true
 
 [[files]]
