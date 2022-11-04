@@ -98,7 +98,7 @@ hash = "d5d6716f7fdbd58e12bf64cc777b95678e8527c4e87e0aeffdae373520b23a7b"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "d0ff5974b6aa52cf562bea5921840c032a860a91a3512f7fe8f768f6bbe005f6"
+hash = "d51e6ec94058554a84558a5b402ee6ef5fdf5455e35c902feda61cda8752943a"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "config/openloader/resources/GamersReloaded Resources/assets/apotheosis/lang/ru_ru.json"
-hash = "b0c49cf7ad486b4d5ec8bdfc510de914298cd18c25e5700ac19d89701d5e40bb"
+hash = "30cc5b4c8681257d3c7caca943701088c19e57f6713f6183f6fc8b5968e4a3ad"
 
 [[files]]
 file = "config/openloader/resources/GamersReloaded Resources/assets/brewinandchewin/lang/ru_ru.json"
@@ -127,7 +127,7 @@ hash = "d7e86fab5b32d3992af43293d2177a53ff55e7cd247b362fcad65f2744664ff4"
 
 [[files]]
 file = "config/openloader/resources/GamersReloaded Resources/assets/simplelogin/lang/ru_ru.json"
-hash = "25348f68e68ae40fb64a3b7d230967b031d8802645ac6759061fa7f7a174e5fb"
+hash = "c69d548cbf5e7c16ad5269e44093f47643b9a87e58bb981b7fb8ea6ed03062b1"
 
 [[files]]
 file = "config/openloader/resources/GamersReloaded Resources/assets/tipsmod/lang/ru_ru.json"
