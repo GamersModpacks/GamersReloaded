@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "config/openloader/resources/GamersReloaded Resources/assets/apotheosis/lang/ru_ru.json"
-hash = "30cc5b4c8681257d3c7caca943701088c19e57f6713f6183f6fc8b5968e4a3ad"
+hash = "f9f4c91442705ece1debb30112e7858b78335195a835bb9a56efa96846d60f02"
 
 [[files]]
 file = "config/openloader/resources/GamersReloaded Resources/assets/brewinandchewin/lang/ru_ru.json"
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "8ae2eb2f58d366a8de6c8cb4e1ca6dc9824b8ad7176711ca9b74a38768707fbc"
+hash = "c7c37725847bf044fc41fc289992de706ff54f8d662e1af5ff9db67f8a3b514b"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
-hash = "6c4b845e5a370edd5b8f76599cbc223d7af2a560c76a2fabdcc8c273bb7de8be"
+hash = "8baa04d4b8c8dc9f3e6af19091379dd1de692e8260dffeec6e3f77d69b7c008f"
 metafile = true
 
 [[files]]
@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "abe171a9d5ab7671485e32c999bafd457477d6563af02c30e4cb1de6ee996b21"
+hash = "fc97acae22289f2966f8745901b9400f10ff69fe5481d26ea8181235a3f93d83"
 metafile = true
 
 [[files]]
@@ -681,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/tips.pw.toml"
-hash = "bf83cdff0c505b7b4f05c9d84fdef064ab7a5885c51e0b058884c9720dc69bc3"
+hash = "ddbcac3a27eb5f76cbebec0987f02425d806c8631e82aa1a4581e21856360560"
 metafile = true
 
 [[files]]
