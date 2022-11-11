@@ -10,7 +10,7 @@ hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "fb5fd8973f2617c128b425b3821037ed51f275ed0614567083b64c262bd37ee0"
+hash = "11f7dc2e910b6aa4fc3a22a8ea11e6757286edd56bcf69c5db479ed9ba69a4a2"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -94,7 +94,7 @@ hash = "d5d6716f7fdbd58e12bf64cc777b95678e8527c4e87e0aeffdae373520b23a7b"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "9c193c604ad7de942961af97b39ff541f2e611fdf0b93a3044e16dfbd808f41b"
+hash = "1a948f1b4374f4e3f02501c7feb43784021718a93c1ed5f9f19adf357bb2d20e"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -269,6 +269,11 @@ hash = "ad069dc41f99352ef262bcd674bfdabf526a8202333f673a9c94893458fc2da4"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a57e921f872596ca19e411d726b7f6db272267f2dd712322a3168ce0f404fd44"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "2bfca7a4300b54b98ca96f631c55236def2ab9dd82f18c255cb5d0fa8cde225c"
 metafile = true
@@ -375,12 +380,12 @@ metafile = true
 
 [[files]]
 file = "mods/evilcraft.pw.toml"
-hash = "9e752980c179d449b50d6a439ebbc6f1edcec1f199792780a496acca4cd8d3c7"
+hash = "516eccc3c86eade8e656c8599ef9e2de47475f62f0a5d20dffbb1ee571b9f9be"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "1c8c38cefdfbd1a219c380cf3fc54297a0c6c9d738a2e74de7bf2ebb8296825a"
+hash = "a8a6e525a7c6baef0fe34f416b3eda4d371545dfa709bad67f7b0e256a67c936"
 metafile = true
 
 [[files]]
@@ -436,6 +441,11 @@ metafile = true
 [[files]]
 file = "mods/guide-api-village-and-pillage.pw.toml"
 hash = "52c76dca73ede428d7d515279a5d22847312a8d3abc055494aec60e1e56a712f"
+metafile = true
+
+[[files]]
+file = "mods/iammusicplayer.pw.toml"
+hash = "78037629178827a44229719d5e9791220f539572e2c21a7a072ffc9f99d1ea3d"
 metafile = true
 
 [[files]]
@@ -561,6 +571,11 @@ metafile = true
 [[files]]
 file = "mods/open-loader.pw.toml"
 hash = "3572115ea9aaec0360f662d919366d7d70be7d0a6d0169bfff05b781dda3899f"
+metafile = true
+
+[[files]]
+file = "mods/otyacraft-engine.pw.toml"
+hash = "5cb012931e3de85b07c1701fbcb55f89d226528bef66f65eb6ec23186f819cc7"
 metafile = true
 
 [[files]]
@@ -726,6 +741,11 @@ metafile = true
 [[files]]
 file = "mods/werewolves-become-a-beast.pw.toml"
 hash = "cfc3d174936dcb732635b458f4dc42d5144dbccf0032ff33b51a7cba63762271"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "01399fef27404a511bfc9b6dad93773e1847c394e86d258d4fa1f3ef9171288c"
 metafile = true
 
 [[files]]

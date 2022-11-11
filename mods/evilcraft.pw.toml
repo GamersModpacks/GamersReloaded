@@ -1,13 +1,13 @@
 name = "EvilCraft"
-filename = "EvilCraft-1.18.2-1.2.10.jar"
+filename = "EvilCraft-1.18.2-1.2.11.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8a4a231ab73c46a9a9c3f835c301cdd0b075655f"
+hash = "9347e01f5e43b8d43c2b1c380a55f03ce31177c4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4014867
+file-id = 4077773
 project-id = 74610
