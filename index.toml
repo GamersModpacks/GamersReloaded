@@ -10,7 +10,7 @@ hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "af9e3d171246de67b10f684612e14ce83a66842ca387f826aaf5d68704409853"
+hash = "fb5fd8973f2617c128b425b3821037ed51f275ed0614567083b64c262bd37ee0"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -94,7 +94,7 @@ hash = "d5d6716f7fdbd58e12bf64cc777b95678e8527c4e87e0aeffdae373520b23a7b"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "77ac319bfe1979e2d799d9e6987e65feb54f61511c03552ebae990826c208590"
+hash = "9c193c604ad7de942961af97b39ff541f2e611fdf0b93a3044e16dfbd808f41b"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "config/openloader/resources/GamersReloaded Resources/assets/apotheosis/lang/ru_ru.json"
-hash = "5eca481cb0c93818dabf1a6fa8d4d8bd0b27bf848a5f0c7dde00d7ab6d2819bc"
+hash = "5f4b6502fb99350ed5ef9ae59185603c24186235ac904f34fb5120bf2bbfe3f1"
 
 [[files]]
 file = "config/openloader/resources/GamersReloaded Resources/assets/brewinandchewin/lang/ru_ru.json"
@@ -124,6 +124,10 @@ hash = "044dcc7bb600daa422ac47f62032e6bc93f930f391745427fae3c7866dd0a4b6"
 [[files]]
 file = "config/openloader/resources/GamersReloaded Resources/assets/create_sa/lang/ru_ru.json"
 hash = "d7e86fab5b32d3992af43293d2177a53ff55e7cd247b362fcad65f2744664ff4"
+
+[[files]]
+file = "config/openloader/resources/GamersReloaded Resources/assets/moremekanismprocessing/lang/ru_ru.json"
+hash = "06e88de4d2d8744332d9c290d8a06f887a66e0197695cf5fc4b35f438539df31"
 
 [[files]]
 file = "config/openloader/resources/GamersReloaded Resources/assets/simplelogin/lang/ru_ru.json"
@@ -191,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "c7c37725847bf044fc41fc289992de706ff54f8d662e1af5ff9db67f8a3b514b"
+hash = "ed7472ded502265e46c6e04763fdf41500b3ee6b56c1335be7f8d1fa70f89c16"
 metafile = true
 
 [[files]]
@@ -321,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclic.pw.toml"
-hash = "5810c5638891e568f760f4fb157f3e277c3ba413023f3ae42eb8e59e71ef5a86"
+hash = "14ec065bbd4fb51623f1e4259732335ddf7a085807ee08b41ba30595196e2dcf"
 metafile = true
 
 [[files]]
@@ -376,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "76de342de665a56790505d71816abfe2e3fe4a5277423352d39668e861ee2144"
+hash = "1c8c38cefdfbd1a219c380cf3fc54297a0c6c9d738a2e74de7bf2ebb8296825a"
 metafile = true
 
 [[files]]
@@ -530,6 +534,11 @@ hash = "cbdd3f9a91ab196d9fc6a2b50046405efb5bbb2587befc3c05272db10f0ce6a0"
 metafile = true
 
 [[files]]
+file = "mods/more-mekanism-processing.pw.toml"
+hash = "fea1c7d6b98b6606ae17a2e436d7158dd1ec86c29c8af4a500b42d66fa70a00e"
+metafile = true
+
+[[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "916c4cb1f3e1a95e6c52cdcac101fdc54ce5e4d1cb568493de2b6bef26a2a8ad"
 metafile = true
@@ -655,6 +664,16 @@ hash = "809dfff943976dd9e8c11721ddcdcdf3130e0f9b3ae67bf98089f3cb5e056222"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "5f62a1b53954ac5f25d506f24755c7bde75b179895219260612f4ccad31bf2c5"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "d74b966074318c02ac233f1ef9ab85ab59058866459c4bb0b6226f621590c08e"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "f389cee82dafe0ff9ad934e2454b49c89dd84deb4a9a447cbb6781190b2b753d"
 metafile = true
@@ -710,13 +729,18 @@ hash = "cfc3d174936dcb732635b458f4dc42d5144dbccf0032ff33b51a7cba63762271"
 metafile = true
 
 [[files]]
+file = "mods/wireless-chargers.pw.toml"
+hash = "c75091c68dede72bf4c96bd518e7cecbed334c7496e32d0bbfea1d4db590502d"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "8a78b6f2f71eb89963ce122216bd942f8b62a4a2abe39e533b75302da2c19f25"
+hash = "d0e5e164971146ef1659578b30e693bef84c2308c92f43af3dc3f084ea5af01c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "876d6dd438c8a9426c1eb18c8d6f0baa099556ce6683b682a555ca4969855ab5"
+hash = "f3562c68bbcf23aa7bf8b334cd4853260d32d4a65f99bb39f2da9b90997aefe3"
 metafile = true
 
 [[files]]

@@ -13,7 +13,7 @@
     "attribute.modifier.apotheosis.take.2": "-%s%% общему %s",
 	
 	"apotheosis:draw_speed": "скорости доставания",
-	"apotheosis:crit_chance": шансу крита",
+	"apotheosis:crit_chance": "шансу крита",
 	"apotheosis:crit_damage": "урону крита",
 	"apotheosis:cold_damage": "холодному урону",
 	"apotheosis:fire_damage": "огненному урону",
