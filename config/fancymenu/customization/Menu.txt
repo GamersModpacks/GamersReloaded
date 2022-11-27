@@ -282,7 +282,7 @@ customization {
   shadow = false
   delayappearanceseconds = 1.0
   scale = 1.1
-  source = config/fancymenu/pack_version.txt
+  source = config/fancymenu/resources/pack_version.txt
   text_border = 2
   case_mode = normal
   fadein = true
