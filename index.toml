@@ -176,10 +176,6 @@ file = "defaultconfigs/xaerominimap.txt"
 hash = "90741f72845b38d63b542fefcdc4e67fd3c068e511cb53dd22db3975a7fc7f9c"
 
 [[files]]
-file = "icon.ico"
-hash = "c72313cdcaaf4a1a275628b235cbfd2978fb5e88b5d02ffb11d3882b272522e3"
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "5262b40999a9c2e60b43561067f5f199814627eaaee3d193c92ef8b99f20fe61"
 metafile = true
