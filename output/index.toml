@@ -46,19 +46,19 @@ hash = "c640bb9d1d1d9a47e5a113126e384e9bccf5409bc52837e28c9622cb8c399d3b"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "d3b2331e25ce3fa7f1c5069677defd4af621acd27e2bc9da225f647172f26c49"
+hash = "e9df0449ac60265e7358a759f4a227b86523bc2e072f2c7c21508f0ab5a98b01"
 
 [[files]]
 file = "config/fancymenu/custom_locals/pack/en_us.local"
-hash = "438c54fdb38eed30ab127f355d4a344cb195e26d87e31b29e78740ef409b75f8"
+hash = "c2f0cef18f72cadbbcc93510fef14946e56d4434fef34a352734c9214c310bee"
 
 [[files]]
 file = "config/fancymenu/custom_locals/pack/ru_ru.local"
-hash = "c604094b903f3b9a0aa2a1bd910103846edc2cb0a769f84a7317bc482a658dd1"
+hash = "30ba07f938617c4a3c533a10cf24e579c0a80061a02d7236ffcf11aba2d3c51a"
 
 [[files]]
 file = "config/fancymenu/custom_locals/pack/uk_ua.local"
-hash = "59b3c60e096d4abf5f2872913fc575454b45601262f751704d193c8befb7cfd9"
+hash = "4757c3e9016a7c9886651abe07f37c94084e52cc87f4a51afd5adca2c42bf34b"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -66,7 +66,7 @@ hash = "4c68ab99c906dd487952f61bf33c0635039a8bbff3f02099e3cd8272fe51b4aa"
 
 [[files]]
 file = "config/fancymenu/customization/Menu.txt"
-hash = "15290eea9d57c3795b6ed45dd4c8e309608f3ce9f5e4e21ecb95637bb1e8f2f6"
+hash = "7b38964eca3312154882b774b6d072dbbef9ea0d280e5c1027deea8d6865de9c"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
@@ -79,6 +79,10 @@ hash = "d5d6716f7fdbd58e12bf64cc777b95678e8527c4e87e0aeffdae373520b23a7b"
 [[files]]
 file = "config/fancymenu/resources/background.png"
 hash = "3f7572f2328551f7bea456cf661cb4fe4a4fc6ee9dde769c6ad80956c97c6fe0"
+
+[[files]]
+file = "config/fancymenu/resources/basepack_version.txt"
+hash = "bfec2e34583ada7e6af2cb73993fb75a3f7147a6c943e5ff5f5c4294fc577b90"
 
 [[files]]
 file = "config/fancymenu/resources/logo.png"

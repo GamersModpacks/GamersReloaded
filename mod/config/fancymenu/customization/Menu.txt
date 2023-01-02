@@ -317,7 +317,7 @@ customization {
   action = addsplash
   y = -28
   delayappearance = true
-  text = This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
+  text = Supercalifragilisticexpialidocious!
   delayappearanceeverytime = false
 }
 
@@ -338,10 +338,29 @@ customization {
   width = 195
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 3ee2b663-ae4d-40cd-97c8-2b294c674b101664124579128
-  y = -10
+  y = -20
   delayappearance = true
   alignment = left
   delayappearanceeverytime = false
   height = 11
+}
+
+customization {
+  orientation = bottom-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = %local:pack.base.motd%: {"placeholder":"randomtext","values":{"path":"/config/fancymenu/resources/basepack_version.txt","interval":"0"}}
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 1
+  width = 244
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 389448f3-0af4-4c3a-8534-0445c0c6b5131672686066232
+  y = -10
+  alignment = left
+  height = 9
 }
 
