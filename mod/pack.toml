@@ -1,0 +1,13 @@
+name = "GamersReloaded"
+author = "Gamers"
+version = "1.9"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "59910b04e5cedcde0e7740576f7659cc260af4a2d5b73ab60cf21d8b1358a1fd"
+
+[versions]
+forge = "40.1.86"
+minecraft = "1.18.2"

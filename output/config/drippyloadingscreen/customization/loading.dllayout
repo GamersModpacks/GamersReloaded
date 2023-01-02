@@ -1,0 +1,33 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  backgroundimage = config/fancymenu/resources/background.png
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  visible = false
+  action = editlogo
+  y = 0
+}
+
+customization {
+  action = editprogressbar
+  barcolor = 
+}
+
+customization {
+  path = config/fancymenu/resources/logo.png
+  orientation = mid-centered
+  x = 0
+  width = 200
+  action = addtexture
+  actionid = 36f00b53-c7f9-42fd-a0da-da78a1ccbc171666471047865
+  y = -1
+  height = 81
+}
+

@@ -1,7 +1,0 @@
-name = "RU_UK"
-filename = "RU_UK.zip"
-
-[download]
-url = "https://github.com/Den4enko/MinecraftTranslation-RU-UK/releases/download/1.18/RU_UK.zip"
-hash-format = "sha1"
-hash = "65944c0d0dbda3d495b1d9a25aaf0e76540605ee"
