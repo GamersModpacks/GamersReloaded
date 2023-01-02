@@ -251,6 +251,11 @@ hash = "546cf7bd63e02041e8d159ecc5326fde952aaeaf0d8517b5eb5f552a84fcf12a"
 metafile = true
 
 [[files]]
+file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
+hash = "44c2de08592e5c0dad820b217b0fd332db0757a344796f1e01806cfe881206bc"
+metafile = true
+
+[[files]]
 file = "mods/flywheel.pw.toml"
 hash = "9e0ad54ad0766fce2609aebb53f9f4e3a4b67dab325990fb498ef178e933b7a5"
 metafile = true
@@ -293,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/mana-and-artifice.pw.toml"
 hash = "912c22ba96ab5abbbc24fdffa68f95a1f21d9360ac39bb05f4dc5b3777dfc11f"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "9f33ad46094198693346e70eb7311d195c3b5adfa54c82c6b9f3116403b37ee3"
 metafile = true
 
 [[files]]

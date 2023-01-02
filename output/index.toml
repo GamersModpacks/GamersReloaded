@@ -376,6 +376,11 @@ hash = "aabf921df6c6895e3703f0159992521a413fb18e0b75b2f5da7bccc62ffb9194"
 metafile = true
 
 [[files]]
+file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
+hash = "44c2de08592e5c0dad820b217b0fd332db0757a344796f1e01806cfe881206bc"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5f4514e2e51c3c964f87430a6d40b0e20c773ae0d08924eceaf9fba02a2d5070"
 metafile = true
@@ -468,6 +473,11 @@ metafile = true
 [[files]]
 file = "mods/mana-and-artifice.pw.toml"
 hash = "912c22ba96ab5abbbc24fdffa68f95a1f21d9360ac39bb05f4dc5b3777dfc11f"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "9f33ad46094198693346e70eb7311d195c3b5adfa54c82c6b9f3116403b37ee3"
 metafile = true
 
 [[files]]
