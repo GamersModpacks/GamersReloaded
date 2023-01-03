@@ -50,7 +50,7 @@ hash = "4c68ab99c906dd487952f61bf33c0635039a8bbff3f02099e3cd8272fe51b4aa"
 
 [[files]]
 file = "config/fancymenu/customization/Menu.txt"
-hash = "7b38964eca3312154882b774b6d072dbbef9ea0d280e5c1027deea8d6865de9c"
+hash = "f2f85ecf8843fcefa5169ed06a44360dbb53b9832048bd942b486c1a4c75ad86"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "dec71cae2efbd3e7330ecbcd228104831494d63a083634680b1ef408e5af2229"
+hash = "3c3db9fb1d218f312693d378fee72943b64fe6e0e3e0df172887a12419754724"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "f3a29ef1faa3b0f6661fb28abc7557a9859e5b5307f253b106287ef7f33fcf80"
+hash = "c51279d7ceeb2370b7ca92f5dc50741cbebc7d9c58ae3ea9119fae795c95ba48"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "d74b966074318c02ac233f1ef9ab85ab59058866459c4bb0b6226f621590c08e"
+hash = "2fbe8c620f5869a9198461492f7e8ab9e57f5315c4176691cc4e02b04d94d683"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/wireless-chargers.pw.toml"
-hash = "c75091c68dede72bf4c96bd518e7cecbed334c7496e32d0bbfea1d4db590502d"
+hash = "2242d4beed8485a84b9f54d7cfbde96d634b2420ec0bf9642be6dacbd94f549a"
 metafile = true
 
 [[files]]
