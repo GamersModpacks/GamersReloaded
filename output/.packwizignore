@@ -4,8 +4,4 @@
 
 
 # Exclude files
-.git/**
-.gitattributes
-.gitignore
-README.md
 GamersReloaded.png

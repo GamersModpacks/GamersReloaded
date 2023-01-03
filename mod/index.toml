@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "ecb447d85f6642abe9469e810d77cf2338977ed450c42cef714b3b66294e88cc"
+
+[[files]]
 file = "config/ProjectE/client.toml"
 hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
