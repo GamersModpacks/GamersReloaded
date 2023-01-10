@@ -74,7 +74,7 @@ hash = "975d2b104e7bfd1a6735bedc9eff04700f79062ca5fee0b96b36b40c98cc3a96"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "eca06fdd26e513a7b8510c86602285041a916de5491de13373d94fe0d7e04737"
+hash = "b6150cfd60718dd0816591cf9a6c7f3db4461d05c125ceb14d75d095aaad882a"
 
 [[files]]
 file = "config/greekfantasy-common.toml"
