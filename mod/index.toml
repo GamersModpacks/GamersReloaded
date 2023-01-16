@@ -10,7 +10,7 @@ hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a4e6330b03edab84b0b9a29e9eab4652c2806b11baf11834e9dfe436fbbadd77"
+hash = "c746a12b848e8958dfa6249df0c3fc35936f3bf52f12eca3a1a50d306a6aa6da"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -74,7 +74,7 @@ hash = "975d2b104e7bfd1a6735bedc9eff04700f79062ca5fee0b96b36b40c98cc3a96"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "b6150cfd60718dd0816591cf9a6c7f3db4461d05c125ceb14d75d095aaad882a"
+hash = "aa672d37ec3c3f8002f2a87bba68fd3c2281f1935020cc0e2840276a9de14d78"
 
 [[files]]
 file = "config/greekfantasy-common.toml"
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "550373c6cde926832ea77f0d5e6fda708e37323468caca5a32d8ae9b88baeea7"
+hash = "c1ab5c64ac36cdc7b2ccea6f017580ef7a2bae38093a713f9c66ffd3820a1d74"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "fb12c72525fb1b71f955624bdf748bce45f358884394da51d67025a8f4ac6640"
+hash = "97aaea2c08629390787d6fc9edbf26dd27be9f782ad43ec0a1818f43fc3c8525"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "9e0ad54ad0766fce2609aebb53f9f4e3a4b67dab325990fb498ef178e933b7a5"
+hash = "90139a5b885c66756095b4338797031c2f0b167d0b08b33412fae4366f3537a5"
 metafile = true
 
 [[files]]
@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "d673098f8970c1882fba317165683a616400e53145fe619d5944af8fdeb9976b"
+hash = "2a1c65d868c9128a653a26e3dcde386b855152272dc3a962570f20bd59c2185f"
 metafile = true
 
 [[files]]
@@ -375,11 +375,6 @@ hash = "dc5355c75b3a14c1d0735f6db571f07aae00ca531bdb471aebaf89addcda5a4e"
 metafile = true
 
 [[files]]
-file = "mods/projecte.pw.toml"
-hash = "824ad9a385cce61265f09bbc1eb1666756a8ba84a3870e4bed9a92b5ce7a70f8"
-metafile = true
-
-[[files]]
 file = "mods/quark.pw.toml"
 hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
 metafile = true
@@ -406,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "c3388926628a60785680764af196ec0ff0df25790f75abe61cfb731b5a469e97"
+hash = "86b2a1a29f49647041d8834a173cf1e1b9596aa8ae7ce8f1719f8a63e2a5da60"
 metafile = true
 
 [[files]]
@@ -426,12 +421,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "0753b3791b2815ec7948210412b0404e7dce473bb62270b7398a7458614b2878"
+hash = "632c748338d71584f869f2ee35448de1b5576ea5ef0384d4046342a54d44f91c"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "380381a01ac5af796b67dd4bcef0feb312d64af4d30ad92fe249a7b70b0df811"
+hash = "5e0caaa7e70f3563a7f4ac701967c5d701d23d5f7a0e92a919445429b3e85c42"
 metafile = true
 
 [[files]]
@@ -446,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "2fbe8c620f5869a9198461492f7e8ab9e57f5315c4176691cc4e02b04d94d683"
+hash = "7682ee8020b690676c256df301dedc20797ed3f12d8dc42fabe488a47386a56e"
 metafile = true
 
 [[files]]
@@ -501,12 +496,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "3ad22abe04558e12f7374836819e9aa716a2965cbed02c92796371c2b5bf82ba"
+hash = "f5c0bcad68980fd9023b7b0ca7d465fe7916b79fff3fd1f8621faa7d0197fd45"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "4f45581bac450b01fbbb56a39cf908e57dc81260e4ab6ffd8303ca62c53b421c"
+hash = "bc2d548936901d39d362408eea7dbf68bf585bbe5d12958b15d56a006f7aac7b"
 metafile = true
 
 [[files]]
