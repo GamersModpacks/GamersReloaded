@@ -14,7 +14,7 @@ hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "c746a12b848e8958dfa6249df0c3fc35936f3bf52f12eca3a1a50d306a6aa6da"
+hash = "5666561a3fc28460bfd3b38d16923b95cfe77fe4552734ee1dd1bad4b6031ad8"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -86,7 +86,7 @@ hash = "3f7572f2328551f7bea456cf661cb4fe4a4fc6ee9dde769c6ad80956c97c6fe0"
 
 [[files]]
 file = "config/fancymenu/resources/basepack_version.txt"
-hash = "1ec4fab0d8dd5eafef82e67f61a35c03ee994988a5293e17cf3d3e97c3511847"
+hash = "9c193c604ad7de942961af97b39ff541f2e611fdf0b93a3044e16dfbd808f41b"
 
 [[files]]
 file = "config/fancymenu/resources/logo.png"
@@ -94,7 +94,7 @@ hash = "975d2b104e7bfd1a6735bedc9eff04700f79062ca5fee0b96b36b40c98cc3a96"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "6b56de731bba7d2a340b35e1f8639e880663c2192541e4ab81895bf0e1f11798"
+hash = "b096c134b668c19b902dc12806b50b7bace827339f59964104da678d6490a227"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "57a874e5167da349bb2cc7870adfac66d4ec027f884afbee45b1359950f84fb7"
+hash = "52b6e12ebdd09c5708c22320d8c3def4575f1c37d608ebf803c4bc7e84f63043"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "fc97acae22289f2966f8745901b9400f10ff69fe5481d26ea8181235a3f93d83"
+hash = "94609bc33550bb64bdb280d53156767318407a4a62d2273b6f9d0a0f40396e9a"
 metafile = true
 
 [[files]]
@@ -495,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.pw.toml"
-hash = "9f33ad46094198693346e70eb7311d195c3b5adfa54c82c6b9f3116403b37ee3"
+hash = "8854e47ecb28659355acd89e0b56bb1c75bc1fb67c9eed071e574014d3c7f892"
 metafile = true
 
 [[files]]
@@ -550,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "9446f7c936c9fb0fb73ac27f388849fc760107eeb5a50564e93c54f0dd2e8d97"
+hash = "9ad89c5689471264d26580e7f039ff80004c5d9ab14abbbc6680574ef71d7f4e"
 metafile = true
 
 [[files]]
@@ -680,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "2891bea6bfecd71e0061b6bef435641bfa5508de525280702a37af894327b428"
+hash = "449411347b958d4d18a2ffb5af786c9c9a755c2f9aea4d343864eae2a31590e3"
 metafile = true
 
 [[files]]
@@ -705,7 +705,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "340e1fb9df4501861e779df3a20188653a43d0c61023237d4f936490fc527ca7"
+hash = "4aeb9670f24f4416273ccdbad1aa2cdae96630f5eedea8f8c0b32623d1f4a028"
 metafile = true
 
 [[files]]
