@@ -5,12 +5,8 @@ file = "README.md"
 hash = "ecb447d85f6642abe9469e810d77cf2338977ed450c42cef714b3b66294e88cc"
 
 [[files]]
-file = "config/ProjectE/client.toml"
-hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
-
-[[files]]
 file = "config/bcc-common.toml"
-hash = "5666561a3fc28460bfd3b38d16923b95cfe77fe4552734ee1dd1bad4b6031ad8"
+hash = "5df411e0b40343dbec06be50c7707d06f024247cc0feff9445ea7ba9868fe432"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -74,11 +70,15 @@ hash = "975d2b104e7bfd1a6735bedc9eff04700f79062ca5fee0b96b36b40c98cc3a96"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "b096c134b668c19b902dc12806b50b7bace827339f59964104da678d6490a227"
+hash = "d72c6e9cf20da8c31ac4f040ef135702d47c889b5a520bd14a54e911d13607c4"
 
 [[files]]
 file = "config/greekfantasy-common.toml"
 hash = "0df0e5eb593a4b876f13ef6bcb45c456005db7b0325f0b8d0a4ae41b556241af"
+
+[[files]]
+file = "config/mythicbotany.json5"
+hash = "8a44609a7698ab33fb0e4ea568b72809eef9292577f79ed6c7b5f1e7d0922b75"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "3c3db9fb1d218f312693d378fee72943b64fe6e0e3e0df172887a12419754724"
+hash = "0943fc1adf877b027058ef62eb3f4ee55baae3de7f58e2beb7a966678e5df9da"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclops-core.pw.toml"
-hash = "80a4fb51fe646c4f56c6cef6950dfb4ec90a948e26f3c6024fb9bfc3027e5fa6"
+hash = "55dc5de795301b6144ab22dfd3e7dd3d83334a73a3e31b17d3c831e2ea0917dc"
 metafile = true
 
 [[files]]
@@ -466,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "4aeb9670f24f4416273ccdbad1aa2cdae96630f5eedea8f8c0b32623d1f4a028"
+hash = "410ec9ece045e2c6a3b15363c8a4215d4ed4b976a1815a79dca541eb1f5aa232"
 metafile = true
 
 [[files]]

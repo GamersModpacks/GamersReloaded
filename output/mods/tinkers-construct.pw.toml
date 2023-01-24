@@ -1,13 +1,13 @@
 name = "Tinkers Construct"
-filename = "TConstruct-1.18.2-3.6.1.88.jar"
+filename = "TConstruct-1.18.2-3.6.2.92.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3b12e26be49fdcbfbf0b251e960bdf66129dd801"
+hash = "6b7a0b515edd654d0ca3a187145667ac0e110a84"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4353951
+file-id = 4360093
 project-id = 74072
