@@ -10,7 +10,7 @@ hash = "ecb447d85f6642abe9469e810d77cf2338977ed450c42cef714b3b66294e88cc"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "5df411e0b40343dbec06be50c7707d06f024247cc0feff9445ea7ba9868fe432"
+hash = "14ee7f8ec92d9402b2f7e880c38cfd5b7553654bd773bbe6bed85c1c495df28d"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -82,7 +82,7 @@ hash = "3f7572f2328551f7bea456cf661cb4fe4a4fc6ee9dde769c6ad80956c97c6fe0"
 
 [[files]]
 file = "config/fancymenu/resources/basepack_version.txt"
-hash = "1a948f1b4374f4e3f02501c7feb43784021718a93c1ed5f9f19adf357bb2d20e"
+hash = "9f29a130438b81170b92a42650f9a94291ecad60bd47af2a3886e75f7f728725"
 
 [[files]]
 file = "config/fancymenu/resources/logo.png"
@@ -90,15 +90,11 @@ hash = "975d2b104e7bfd1a6735bedc9eff04700f79062ca5fee0b96b36b40c98cc3a96"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "d72c6e9cf20da8c31ac4f040ef135702d47c889b5a520bd14a54e911d13607c4"
+hash = "640f6107ab1204c963ce76e1840c57326e368e9144139ab8d909d7ce06838394"
 
 [[files]]
 file = "config/forge-client.toml"
 hash = "a7c8e3756baa0003dd4ba52d742b7a27dd9751ce319066e181f71ff0875af1ca"
-
-[[files]]
-file = "config/greekfantasy-common.toml"
-hash = "0df0e5eb593a4b876f13ef6bcb45c456005db7b0325f0b8d0a4ae41b556241af"
 
 [[files]]
 file = "config/mythicbotany.json5"
@@ -173,7 +169,11 @@ hash = "5dea0b434dd6c4f50bea256b32a165c69368e81cd0effdde180c66fa7813d7a8"
 
 [[files]]
 file = "config/vampirism-common.toml"
-hash = "e95233f172ea58f4262d08472073a97683d5489e38e52b3cde7ac7318db7af5c"
+hash = "a8646aa727a969ca67cf572aba9c95bc34694d681000292670d1f9e2d9702210"
+
+[[files]]
+file = "config/vampirism_integrations-common.toml"
+hash = "78b76a49dc17ab93ed084df8e24be82f745a36abc4f48c3d18a97a48fdee9a14"
 
 [[files]]
 file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
@@ -182,6 +182,11 @@ hash = "43e5c00005192fdd5f778e8419e8a39c5fb2b27f929eeabc47872a317278e0b4"
 [[files]]
 file = "defaultconfigs/xaerominimap.txt"
 hash = "90741f72845b38d63b542fefcdc4e67fd3c068e511cb53dd22db3975a7fc7f9c"
+
+[[files]]
+file = "mods/ae2-things-forge.pw.toml"
+hash = "7896bc393847d17b07e258bc336d01a04687649242a0abf48e4e7b9b728c1927"
+metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -284,11 +289,6 @@ hash = "90cc363d5878dd667e54a656a4f0d87b5ccead681e98c5d570d1705522cbcc69"
 metafile = true
 
 [[files]]
-file = "mods/corail-tombstone.pw.toml"
-hash = "0943fc1adf877b027058ef62eb3f4ee55baae3de7f58e2beb7a966678e5df9da"
-metafile = true
-
-[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "742a9f78528742435f58af062cff491595aca212d201557e92bd120f402c7877"
 metafile = true
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "4f7707135aa402d44e2e073c1c10af01aeedd99ce1ff0c35ca3e3e31ac568b91"
+hash = "d106c66f301f12a044475a577c8c8f27c91ac29b2bb09218f4dc6bcac2502a4a"
 metafile = true
 
 [[files]]
@@ -419,13 +419,13 @@ hash = "e2ecdb0eaa4c2118a320126f5993f781a302d8dec01a041374d5381ed54d6a44"
 metafile = true
 
 [[files]]
-file = "mods/greek-fantasy.pw.toml"
-hash = "7fec8ba384979fe7ef8ebb41cfbde024a255cac66e758e000cf8566cc6b7b296"
+file = "mods/guide-api-village-and-pillage.pw.toml"
+hash = "52c76dca73ede428d7d515279a5d22847312a8d3abc055494aec60e1e56a712f"
 metafile = true
 
 [[files]]
-file = "mods/guide-api-village-and-pillage.pw.toml"
-hash = "52c76dca73ede428d7d515279a5d22847312a8d3abc055494aec60e1e56a712f"
+file = "mods/inventory-essentials.pw.toml"
+hash = "db27541d71cf44b94c8925b65f8713ed3a691d7b40a5c751353a35b0ed3c9124"
 metafile = true
 
 [[files]]
@@ -670,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "7682ee8020b690676c256df301dedc20797ed3f12d8dc42fabe488a47386a56e"
+hash = "6fd616d92b316e0bac6a6ea0ec1e181e6b7f3ff3c79541222f1f3e5fe002e895"
 metafile = true
 
 [[files]]
@@ -707,6 +707,10 @@ metafile = true
 file = "mods/tips.pw.toml"
 hash = "ddbcac3a27eb5f76cbebec0987f02425d806c8631e82aa1a4581e21856360560"
 metafile = true
+
+[[files]]
+file = "mods/tombstone-7.6.1-1.18.2.jar"
+hash = "388cbf50f7bf026dd797ad3f7d2af766db20f2e026038d700e995a266a399910"
 
 [[files]]
 file = "mods/too-fast.pw.toml"

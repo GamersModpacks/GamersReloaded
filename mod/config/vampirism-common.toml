@@ -2,7 +2,7 @@
 #Common configuration settings. Most other configuration can be found in the world (server)configuration folder
 [common]
 	#Check for new versions of Vampirism on startup
-	versionCheck = true
+	versionCheck = false
 	#Send mod version, MC version and mod count to mod author
 	collectStats = true
 

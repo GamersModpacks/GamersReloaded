@@ -6,7 +6,7 @@ hash = "ecb447d85f6642abe9469e810d77cf2338977ed450c42cef714b3b66294e88cc"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "5df411e0b40343dbec06be50c7707d06f024247cc0feff9445ea7ba9868fe432"
+hash = "14ee7f8ec92d9402b2f7e880c38cfd5b7553654bd773bbe6bed85c1c495df28d"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -70,11 +70,7 @@ hash = "975d2b104e7bfd1a6735bedc9eff04700f79062ca5fee0b96b36b40c98cc3a96"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "d72c6e9cf20da8c31ac4f040ef135702d47c889b5a520bd14a54e911d13607c4"
-
-[[files]]
-file = "config/greekfantasy-common.toml"
-hash = "0df0e5eb593a4b876f13ef6bcb45c456005db7b0325f0b8d0a4ae41b556241af"
+hash = "640f6107ab1204c963ce76e1840c57326e368e9144139ab8d909d7ce06838394"
 
 [[files]]
 file = "config/mythicbotany.json5"
@@ -123,11 +119,20 @@ hash = "b96d295ea206bd9c79a3be58ec4a0a9859bb55b6c96d7e4b59af0c03727cfa71"
 
 [[files]]
 file = "config/vampirism-common.toml"
-hash = "e95233f172ea58f4262d08472073a97683d5489e38e52b3cde7ac7318db7af5c"
+hash = "a8646aa727a969ca67cf572aba9c95bc34694d681000292670d1f9e2d9702210"
+
+[[files]]
+file = "config/vampirism_integrations-common.toml"
+hash = "78b76a49dc17ab93ed084df8e24be82f745a36abc4f48c3d18a97a48fdee9a14"
 
 [[files]]
 file = "defaultconfigs/xaerominimap.txt"
 hash = "90741f72845b38d63b542fefcdc4e67fd3c068e511cb53dd22db3975a7fc7f9c"
+
+[[files]]
+file = "mods/ae2-things-forge.pw.toml"
+hash = "7896bc393847d17b07e258bc336d01a04687649242a0abf48e4e7b9b728c1927"
+metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
@@ -172,11 +177,6 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "1e6231c40cf9f2ee400cc0af792fdc5d45b2f926412f07fe687959de6abbc064"
-metafile = true
-
-[[files]]
-file = "mods/corail-tombstone.pw.toml"
-hash = "0943fc1adf877b027058ef62eb3f4ee55baae3de7f58e2beb7a966678e5df9da"
 metafile = true
 
 [[files]]
@@ -267,11 +267,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "e2ecdb0eaa4c2118a320126f5993f781a302d8dec01a041374d5381ed54d6a44"
-metafile = true
-
-[[files]]
-file = "mods/greek-fantasy.pw.toml"
-hash = "7fec8ba384979fe7ef8ebb41cfbde024a255cac66e758e000cf8566cc6b7b296"
 metafile = true
 
 [[files]]
@@ -441,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "7682ee8020b690676c256df301dedc20797ed3f12d8dc42fabe488a47386a56e"
+hash = "6fd616d92b316e0bac6a6ea0ec1e181e6b7f3ff3c79541222f1f3e5fe002e895"
 metafile = true
 
 [[files]]
@@ -468,6 +463,10 @@ metafile = true
 file = "mods/tinkers-construct.pw.toml"
 hash = "410ec9ece045e2c6a3b15363c8a4215d4ed4b976a1815a79dca541eb1f5aa232"
 metafile = true
+
+[[files]]
+file = "mods/tombstone-7.6.1-1.18.2.jar"
+hash = "388cbf50f7bf026dd797ad3f7d2af766db20f2e026038d700e995a266a399910"
 
 [[files]]
 file = "mods/vampirism-become-a-vampire.pw.toml"
