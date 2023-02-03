@@ -1,13 +1,13 @@
 name = "RFTools Base"
-filename = "rftoolsbase-1.18-3.0.11.jar"
+filename = "rftoolsbase-1.18-3.0.12.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "57c4ec0c4ef6f2aed30efc29a383004f261f5675"
+hash = "9ad969667675be81391a2f06eb05b7fe7b68800a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3970754
+file-id = 4373521
 project-id = 326041

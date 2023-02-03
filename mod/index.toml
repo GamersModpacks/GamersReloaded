@@ -6,7 +6,7 @@ hash = "ecb447d85f6642abe9469e810d77cf2338977ed450c42cef714b3b66294e88cc"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "14ee7f8ec92d9402b2f7e880c38cfd5b7553654bd773bbe6bed85c1c495df28d"
+hash = "fa62c956bcecbb1d1bbe678bc3ef4c728e028ce49c2ca97027f542e7099a3a3a"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -15,14 +15,6 @@ hash = "071d402fc522364f0bbbe1cce75c96800c5f4bf0236dcf6766a948180d7ed595"
 [[files]]
 file = "config/create-client.toml"
 hash = "57e54ba2fc5fed6544842876f9e63e732e280f4cadad732b08aa4a3928559f22"
-
-[[files]]
-file = "config/drippyloadingscreen/config.cfg"
-hash = "4a8e1f8287e0804bf5bd6490735c3668c46d0063546af4bdafaf280d32754fbb"
-
-[[files]]
-file = "config/drippyloadingscreen/customization/loading.dllayout"
-hash = "f24f6c52c46ec95f736c356661a419ee33a7c75f389ca44712c69eea41882b1c"
 
 [[files]]
 file = "config/enigmaticlegacy-client.omniconf"
@@ -46,11 +38,15 @@ hash = "4757c3e9016a7c9886651abe07f37c94084e52cc87f4a51afd5adca2c42bf34b"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "4c68ab99c906dd487952f61bf33c0635039a8bbff3f02099e3cd8272fe51b4aa"
+hash = "8e15b8fdd11e054e25d49c37ce6a448807a7e6e34f9c3b46dc4d222aa0aca44b"
 
 [[files]]
 file = "config/fancymenu/customization/Menu.txt"
 hash = "f2f85ecf8843fcefa5169ed06a44360dbb53b9832048bd942b486c1a4c75ad86"
+
+[[files]]
+file = "config/fancymenu/customization/boot_screen.txt"
+hash = "8cd2db213f13fe82d3f8c6cb06100ed0397b068b0861a73dae06b33994267d7c"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
@@ -65,12 +61,16 @@ file = "config/fancymenu/resources/background.png"
 hash = "3f7572f2328551f7bea456cf661cb4fe4a4fc6ee9dde769c6ad80956c97c6fe0"
 
 [[files]]
+file = "config/fancymenu/resources/basepack_version.txt"
+hash = "9f29a130438b81170b92a42650f9a94291ecad60bd47af2a3886e75f7f728725"
+
+[[files]]
 file = "config/fancymenu/resources/logo.png"
 hash = "975d2b104e7bfd1a6735bedc9eff04700f79062ca5fee0b96b36b40c98cc3a96"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "640f6107ab1204c963ce76e1840c57326e368e9144139ab8d909d7ce06838394"
+hash = "69828231cb667d045372606b0f30e6ba73e12649993b618487cff1813ef6f3ef"
 
 [[files]]
 file = "config/mythicbotany.json5"
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "c1ab5c64ac36cdc7b2ccea6f017580ef7a2bae38093a713f9c66ffd3820a1d74"
+hash = "3d22456ed14c5f4abaf5a1b3dfcfaff3626f595f353176eec276f70dffdef6fd"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "561427196527da44ce65f6971d6f611dd00e1f56b54a51bdf90b4b9019a4a785"
+hash = "bc08ae7237b2d3812735d6bd405bedba926964b186c778586b5addabc0853070"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
-hash = "916c4cb1f3e1a95e6c52cdcac101fdc54ce5e4d1cb568493de2b6bef26a2a8ad"
+hash = "eab360710dfebe9b6f7f5c260acfc8275663db2245c85a1e436a78d8e7531dd5"
 metafile = true
 
 [[files]]
@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-base.pw.toml"
-hash = "ce2fdaac17c20454cbcd0f1069f193d1f2b60bfeb56ce4e1c3314014930aa39a"
+hash = "77c4013f628382524a9894f7545d2a29bc9458c8821d895c3b07e8153f715858"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-utility.pw.toml"
-hash = "3fc20703f48e3123dcd6af016d389cea7bfd4643132720211b1727e88a98bbde"
+hash = "75b0991b61d950cee070bf40f955f6163c6b561f58d1690997aceb974cb40c99"
 metafile = true
 
 [[files]]
