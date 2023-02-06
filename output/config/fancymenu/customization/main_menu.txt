@@ -14,7 +14,7 @@ customization {
 }
 
 customization {
-  keepaspectratio = false
+  keepaspectratio = true
   action = backgroundoptions
 }
 
@@ -193,7 +193,7 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 293
+  x = 186
   width = 268
   action = deep_customization_element:title_screen_forge_top
   actionid = 3c643975-577b-4ae1-b4b3-1d146bbd794f1661598563600

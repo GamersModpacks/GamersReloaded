@@ -6,7 +6,7 @@ hash = "ecb447d85f6642abe9469e810d77cf2338977ed450c42cef714b3b66294e88cc"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "fa62c956bcecbb1d1bbe678bc3ef4c728e028ce49c2ca97027f542e7099a3a3a"
+hash = "f9dd5f3b5356e4225f79698a737ab5644a981345282635e4fb7c30bb3d720abd"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -41,12 +41,12 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "8e15b8fdd11e054e25d49c37ce6a448807a7e6e34f9c3b46dc4d222aa0aca44b"
 
 [[files]]
-file = "config/fancymenu/customization/Menu.txt"
-hash = "f2f85ecf8843fcefa5169ed06a44360dbb53b9832048bd942b486c1a4c75ad86"
-
-[[files]]
 file = "config/fancymenu/customization/boot_screen.txt"
 hash = "8cd2db213f13fe82d3f8c6cb06100ed0397b068b0861a73dae06b33994267d7c"
+
+[[files]]
+file = "config/fancymenu/customization/main_menu.txt"
+hash = "39e8792ffc173344e1335cdddc05d954e0fd6bf68a8b936393d69bb42610d3ec"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
@@ -61,16 +61,12 @@ file = "config/fancymenu/resources/background.png"
 hash = "3f7572f2328551f7bea456cf661cb4fe4a4fc6ee9dde769c6ad80956c97c6fe0"
 
 [[files]]
-file = "config/fancymenu/resources/basepack_version.txt"
-hash = "9f29a130438b81170b92a42650f9a94291ecad60bd47af2a3886e75f7f728725"
-
-[[files]]
 file = "config/fancymenu/resources/logo.png"
 hash = "975d2b104e7bfd1a6735bedc9eff04700f79062ca5fee0b96b36b40c98cc3a96"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "69828231cb667d045372606b0f30e6ba73e12649993b618487cff1813ef6f3ef"
+hash = "9f0e787f95cbd2f66f1e46e720ad917e5e2ccbf6336a4e7bbc9367db78b99a5f"
 
 [[files]]
 file = "config/mythicbotany.json5"
@@ -196,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "9dbcda8ffbaedfdf3dcecf7af271a19e1fa886c27516bec6fda4606a36518a42"
+hash = "4afe5c7ef3552063b131e06f6728d798b3ca19fc20ee0d2f567922a4621748d5"
 metafile = true
 
 [[files]]
@@ -221,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "bc08ae7237b2d3812735d6bd405bedba926964b186c778586b5addabc0853070"
+hash = "55de68c78ddafee9d891733618788aae80b8e47ca80cb1006cadc8f7d7d6aa0f"
 metafile = true
 
 [[files]]
@@ -331,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "c51279d7ceeb2370b7ca92f5dc50741cbebc7d9c58ae3ea9119fae795c95ba48"
+hash = "fe2a76c5a995a39a56e35b07200e53fb14e6a29595e9ddba228901eeada68512"
 metafile = true
 
 [[files]]
@@ -391,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-utility.pw.toml"
-hash = "75b0991b61d950cee070bf40f955f6163c6b561f58d1690997aceb974cb40c99"
+hash = "ed27ab7e969a5d41b5633ed9ee9f81fd42dfb93c1e9f6e332329da9e405c5143"
 metafile = true
 
 [[files]]
@@ -441,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "449411347b958d4d18a2ffb5af786c9c9a755c2f9aea4d343864eae2a31590e3"
+hash = "5afd2bbb038204601b83adbb9ed9408be06fc3c6d88f334e7631e59c2dd91252"
 metafile = true
 
 [[files]]
@@ -495,12 +491,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "f5c0bcad68980fd9023b7b0ca7d465fe7916b79fff3fd1f8621faa7d0197fd45"
+hash = "783446e9315a92cf550a2f03e3b9391ea45667676d2c109ed651ebd8fbf08c18"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "bc2d548936901d39d362408eea7dbf68bf585bbe5d12958b15d56a006f7aac7b"
+hash = "8713bf4ea0daa3186d20f8deafb0caeeb0de364df5ca950eddd4aeb4d347438b"
 metafile = true
 
 [[files]]
