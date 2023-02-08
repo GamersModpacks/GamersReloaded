@@ -406,6 +406,11 @@ hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
 metafile = true
 
 [[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "20c4e8c62e4777d9547af8958625febc47bc8361aa3dcf294d671b4ed3774e4c"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "b34952ddd6841882e2ece139e1b2c7ce9573e866b914e3c52917f3caf0d2f450"
 metafile = true
