@@ -6,7 +6,7 @@ hash = "ecb447d85f6642abe9469e810d77cf2338977ed450c42cef714b3b66294e88cc"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f9dd5f3b5356e4225f79698a737ab5644a981345282635e4fb7c30bb3d720abd"
+hash = "88b584203b9776104bd850825d36bc24876353cf8e27bf0ae31ad2f02fbaefa4"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -66,7 +66,7 @@ hash = "975d2b104e7bfd1a6735bedc9eff04700f79062ca5fee0b96b36b40c98cc3a96"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "9f0e787f95cbd2f66f1e46e720ad917e5e2ccbf6336a4e7bbc9367db78b99a5f"
+hash = "16ffcff2eb9b46c0e9f4eca8c9725dd5bc64f18b39cc98a56dc7f35c5174954d"
 
 [[files]]
 file = "config/mythicbotany.json5"
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclic.pw.toml"
-hash = "14ec065bbd4fb51623f1e4259732335ddf7a085807ee08b41ba30595196e2dcf"
+hash = "8cc06b1241ffccecf5c6ab9502a6b877cc8437a8a4a7ae955dc52ed7e1b5c860"
 metafile = true
 
 [[files]]
@@ -268,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/guide-api-village-and-pillage.pw.toml"
 hash = "52c76dca73ede428d7d515279a5d22847312a8d3abc055494aec60e1e56a712f"
+metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "8b8f7f9f18270cbf648dd79c0447cc3ee382269ab90913e329acbe6eb59fe3c3"
 metafile = true
 
 [[files]]
