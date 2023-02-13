@@ -6,7 +6,7 @@ hash = "ecb447d85f6642abe9469e810d77cf2338977ed450c42cef714b3b66294e88cc"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "88b584203b9776104bd850825d36bc24876353cf8e27bf0ae31ad2f02fbaefa4"
+hash = "45ab8fbb66cf2dd2bad1393d48790ca66048e1f2ac464662e5660dc2aa3f58d5"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -66,7 +66,7 @@ hash = "975d2b104e7bfd1a6735bedc9eff04700f79062ca5fee0b96b36b40c98cc3a96"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "16ffcff2eb9b46c0e9f4eca8c9725dd5bc64f18b39cc98a56dc7f35c5174954d"
+hash = "3d7a51acc5cb98f4e350eed557c0c4a7034a1fdb057a8fc2b38cf2138980b74b"
 
 [[files]]
 file = "config/mythicbotany.json5"
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/evilcraft.pw.toml"
-hash = "0201b4236a31324a6a65d2bf1c0b124578287f20a5cc66832004d1b8d9d8b42d"
+hash = "bd6f1cf6f96da4fd30a2407fb90bc4da8050df4922131fe006890ede2fb804f3"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "2a1c65d868c9128a653a26e3dcde386b855152272dc3a962570f20bd59c2185f"
+hash = "c097a4165a61f279c1ccc200356869896b665c27023e8fe5008e29018ceb0ff0"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "6fd616d92b316e0bac6a6ea0ec1e181e6b7f3ff3c79541222f1f3e5fe002e895"
+hash = "8745b2df472a78aa6eee950e322ee6a07e3848289f491a8a75909f3bec56fb8b"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/wireless-chargers.pw.toml"
-hash = "2242d4beed8485a84b9f54d7cfbde96d634b2420ec0bf9642be6dacbd94f549a"
+hash = "189c5ae00a47a3419aebab9f0be2b08d2fea2d36c95ad3e48b890351f9d8b384"
 metafile = true
 
 [[files]]
